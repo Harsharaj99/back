@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "Harsha A K",
+      "email": "HARSHARAJAK1999@GMAIL.COM",
+      "gender": "male",
+      "phone": 8592815032,
+      "status": "single",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Harsha A K",
+      "email": "HARSHARAJAK1999@GMAIL.COM",
+      "gender": "female",
+      "phone": 8592815032,
+      "status": "single",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "employees": [
+    {
+      "name": "Harsha A K",
+      "email": "HARSHARAJAK1999@GMAIL.COM",
+      "phone": 8592815033,
+      "salary": 29,
+      "id": 1
+    }
+  ]
+}
